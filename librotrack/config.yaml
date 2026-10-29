@@ -1,0 +1,7 @@
+database:
+  path: librotrack.db
+
+logging:
+  console_level: INFO
+  file_level: DEBUG
+  file: librotrack.log
